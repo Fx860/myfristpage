@@ -6,7 +6,7 @@ body
 
 .navbar {
 
-background-color:darkblue;
+background-color:slategrey;
 border: 30px;  
 
 }
@@ -31,24 +31,11 @@ border: 30px;
 }
 
 .navbar li a:hover {
-  color:greenyellow; 
+  color:whitesmoke; 
   text-decoration:  none ; 
   text-transform: uppercase; 
 font-size:14px; 
 
-}
-.search  {
-  float: right;
-  color: white;
-  padding: 12px 75px;
 
-}
-
-.navbar input { 
-
-  border: 2px solid black;
-  border: 14px;
-  padding: 3px 17px;
-  width: 129px;
 
 }
